@@ -113,7 +113,7 @@ streamlit run app.py
 
 ```bash
 git clone <your-repo-url>
-cd Assign
+cd Hiring-Assistant-chatbot
 ```
 
 ### Step 2: Install Dependencies
