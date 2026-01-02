@@ -81,7 +81,7 @@ An intelligent AI-powered chatbot for candidate screening, built with Streamlit 
 ```bash
 # Clone and run
 git clone <your-repo-url>
-cd Assign
+cd Hiring-Assistant-chatbot
 pip install -r requirements.txt
 streamlit run app.py
 ```
@@ -188,7 +188,7 @@ Type any of these to end the conversation:
 ### Project Structure
 
 ```
-Assign/
+Hiring-Assisment-chatbot/
 ├── app.py                 # Main Streamlit application
 ├── requirements.txt       # Python dependencies
 ├── README.md             # This documentation
